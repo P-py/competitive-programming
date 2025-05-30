@@ -1,0 +1,26 @@
+# Compilados de C
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Arquivos temporários
+*.log
+*.tmp
+*~
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de execução/teste
+input.txt
+output.txt
+test_cases.txt
